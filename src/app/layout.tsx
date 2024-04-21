@@ -13,13 +13,13 @@ export const metadata: Metadata = {
       "pt-BR": "/pt-BR",
     },
   },
-  metadataBase: new URL("https://lilidaribeira.com.br"),
+  metadataBase: new URL("https://lili-da-dhaba-2zdd.vercel.app"),
   openGraph: {
     title: "Lili da Dhaba",
     description:
       "!",
     type: "website",
-    url: "https://lilidaribeira.com.br",
+    url: "https://lili-da-dhaba-2zdd.vercel.app",
     siteName: "Lili da Ribeira",
     locale: "pt_BR",
   },
