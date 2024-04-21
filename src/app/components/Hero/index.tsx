@@ -6,7 +6,7 @@ function Hero() {
   return (
     <Container id="hero">
       <Title>
-        <span>Lili's Delights:</span>
+        <span>Lilis Delights:</span>
           Code Cake Dough Orders
       </Title>
     </Container>
